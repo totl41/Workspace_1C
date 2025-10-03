@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="https://edt.1c.ru/downloads/releases/plugins/ssl-support/edt-2022.1/0.7.0/repo/" selected="true" name="1C:SSL-support"/>
+   <site url="https://edt.1c.ru/downloads/releases/plugins/v8-code-style/edt-2022.1/0.3.0/repo/" selected="true" name="1С:Стандарты разработки V8"/>
+   <site url="https://www.codetogether.com/updates/ci/" selected="true" name="CodeTogether CI Update Site"/>
+   <site url="https://www.genuitec.com/updates/devstyle/ci/" selected="true" name="DevStyle CI Update Site"/>
+   <site url="https://marmyshev.gitlab.io/edt-editing/update" selected="true" name="Disable Editing plugin for 1C:EDT"/>
+   <site url="http://download.eclipse.org/releases/neon/" selected="true" name="Eclipse Repository"/>
+   <site url="https://raw.githubusercontent.com/dbickley/OpenEditors/release/updatesite" selected="true" name="Exported Repository"/>
+   <site url="https://otymko.github.io/bslls-connector-for-edt/update/bslls-connector-for-edt/latest/" selected="true" name="Коннектор BSLLS для 1С:EDT"/>
+   <site url="http://download.eclipse.org/eclipse/updates/4.16/" selected="false" name=""/>
+   <site url="https://download.eclipse.org/releases/2020-06/" selected="false" name=""/>
+</bookmarks>
